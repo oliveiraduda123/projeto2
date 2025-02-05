@@ -7,7 +7,7 @@ export const metadata = {
 	description: "Front-End II",
 	charset: "UTF-8",
 	author: "Maria Eduarda",
-	keywords: "HTML, CSS, JavaScript, React, Next.js",
+	keywords: ", JavaScript, React, Next.js",
 };
 
 export default function RootLayout({ children }) {
